@@ -1,0 +1,23 @@
+[
+  {
+    "Name": " Павел",
+    "BirthYear": 1998,
+    "Gender": 0,
+    "WorkPosition": " разраб",
+    "Department": " разработка  "
+  },
+  {
+    "Name": " Иван",
+    "BirthYear": 1998,
+    "Gender": 0,
+    "WorkPosition": " работник",
+    "Department": " разработка"
+  },
+  {
+    "Name": "Григорий",
+    "BirthYear": 2001,
+    "Gender": 0,
+    "WorkPosition": "разраб",
+    "Department": "отдел разработки"
+  }
+]
